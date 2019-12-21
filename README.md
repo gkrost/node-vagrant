@@ -14,7 +14,7 @@ Install Vagrant, VirtualBox and git
 Set up
 ---
 
-    $ git clone https://github.com/redgeoff/node-vagrant.git
+    $ git clone https://github.com/gkrost/node-vagrant.git
     $ cd node-vagrant
     $ vagrant up
     $ vagrant ssh
